@@ -1,0 +1,41 @@
+body {
+  background-color: #fbc4ab;
+}
+.MyNav {
+  margin-top: 20px;
+  padding-right: 40px;
+}
+.nav-link {
+  color: #2b2d42;
+  font-family: Handlee;
+  font-size: 1.3rem;
+}
+#my-work h1 {
+  text-align: center;
+  font-family: Acme;
+  font-size: 3.5rem;
+  margin: 75px;
+}
+#my-work h1 {
+  margin-bottom: 50px;
+}
+.row .col-4 {
+  text-align: center;
+}
+.work-border {
+  border-right: #000000 solid 2px;
+}
+.work-title {
+  font-family: Acme;
+}
+.resume {
+  color: #2b2d42;
+  text-decoration: none;
+}
+.MyNav button {
+  font-family: Handlee;
+  font-size: 1.3rem;
+}
+.active {
+  color: #000000;
+}
